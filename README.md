@@ -52,7 +52,7 @@ Note: your method `sortOfSort` should be a void method.
 You should submit:
 1. `sortOfSort.java`, 
 1. `sortOfSortTester.java`, 
-1. a markdown document called `testExplain.md` in which you describe and clearly justify the performance of your method `sortOfSort` in terms of `n`, the length of the input array. (info on creating a markdown document can be found [here](https://guides.github.com/features/mastering-markdown/).
+1. a markdown document called `testExplain.md` in which you describe and clearly justify the performance of your method `sortOfSort` in terms of `n`, the length of the input array. (Info on creating a markdown document can be found [here](https://guides.github.com/features/mastering-markdown/).)
 
 ## How should you submit your work?
 You should submit on Git. 
