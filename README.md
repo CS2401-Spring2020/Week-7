@@ -44,7 +44,7 @@ Your algorithm will transform numbers into the following array:
 1. **Write a method** to transform the array of integers passed as a parameter into a sort of sorted array. 
 Your method called `sortOfSort` should take an array of integers (positive and/or negative; duplicates are also allowed) and transform the input array so that it is sort of sorted after running your method. 
 Note: your method `sortOfSort` should be a void method.
-1. Test this method on at least **5 test cases using `JUnit` test cases**. For this, you will create a file called `IslandTester.java`. You are expected to describe each of the test cases in java comments right before each test case’s code.
+1. Test this method on at least **5 test cases using `JUnit` test cases**. For this, you will create a file called `sortOfSortTester.java`. You are expected to describe each of the test cases in java comments right before each test case’s code.
 1. Analyze the **performance of your method `sortOfSort`**. You are expected to clearly explain / justify your answer to this question. Your answer should address the best / worst / and average cases for the performance of your method.
 
 
